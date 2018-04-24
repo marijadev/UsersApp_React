@@ -1,0 +1,28 @@
+.female,
+.collection .collection-item.female {
+    background-color: #ffebee;
+}
+
+.input-field label {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.input-field {
+    margin-top: 0;
+}
+
+.nav-wrapper {
+    display: table;
+    width: 100%;
+}
+
+.input-field input[type=search] {
+    padding: 0 5% 0 5%;
+    display: table-cell;
+    margin-bottom: 0;
+}
+
+.input-field label {
+    top: 10px;
+}
